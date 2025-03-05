@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 import com.tutorial.qa.base.Base;
 import com.tutorialninja.qa.pagesObjects.HomePage;
 import com.tutorialninja.qa.pagesObjects.SearchPage;
-//updated
+//updated --ADDED MORE DETAILS
 public class SearchTest extends Base {
 	SearchPage searchPage;
 	public SearchTest()
